@@ -4,9 +4,18 @@ Das hier ist der erste test verschidener funktion von githab.
  einen sinvollen inhalt.
 
 
- Datein sind Urheberrechtilch geschützt.
+ ##_Datein sind Urheberrechtilch geschützt._
 
 
 
- windows+shift+S - Screenshot ausfürhen  
- Strg+Windows+Alt+Umschalt+L - Linkedin Öffnen
+ 1. windows+shift+S - Screenshot ausfürhen  
+ 2. **Strg+Windows+Alt+Umschalt+L - Linkedin Öffnen**
+
+
+
+ ´´´´$wasser = n++; n = >10;
+
+ #if $wasser(11){delet wind0ws
+ }
+ else print "hellow world"
+```
