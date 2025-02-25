@@ -1,3 +1,5 @@
 # Das-ist-ein-name
-Das ist Zeug \n
-um nach vorne zu lafen drucke W
+Das hier ist der erste test verschidener funktion von githab,
+ die enthaltenen Datein sind werder logisch bennant noch haben sie,
+ einen sinvollen inhalt.
+ Datein sind Urheberrechtilch geschützt.
